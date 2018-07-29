@@ -94,7 +94,7 @@ var points = {
     "properties": {
     "FID":8,
     "CreationDate":"7/28/2018 2:03:21",
-  "text":"Have you ever felt like this?, he said. Broken. Abandoned by someone, then, in the most vulnerable state taken advantage of and dismantled of parts rendering useless. He didn't say he's make me feel like that."
+  "text":"'Have you ever felt like this?', he said. Broken. Abandoned by someone, then, in the most vulnerable state taken advantage of and dismantled of parts rendering useless."
     }
   },
   {
